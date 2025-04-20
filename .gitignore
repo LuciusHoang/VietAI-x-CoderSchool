@@ -1,0 +1,7 @@
+# macOS
+.DS_Store
+Week6_7/.DS_Store
+
+# JetBrains IDEs
+.idea/
+*.iml
